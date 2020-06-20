@@ -95,6 +95,7 @@ export default class StaticResumeService extends AbstractStaticService implement
           'HDFS',
           'Apache Spark',
           'Hive',
+          'Kafka',
           'Map/Reduce'
         ],
         icon: {
